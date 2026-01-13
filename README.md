@@ -17,7 +17,7 @@
 This bootstrapper was originally built for **my own RAGE:MP server** to fix  
 crashes caused by **colshape events** and `NullReferenceException`.
 
-Later on I moved to a **completely different to an advanced system**,  
+Later on I moved to a **completely different system**,  
 so I decided to release this **for free**, in case it helps others facing the same issues.
 
 If you find bugs, problems, or have improvements,  
