@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/RAGE:MP-Server-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-CC--BY--NC--SA-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-TO--K--YO--SPLIFF-blue?style=for-the-badge" />
 </p>
 
 ---
