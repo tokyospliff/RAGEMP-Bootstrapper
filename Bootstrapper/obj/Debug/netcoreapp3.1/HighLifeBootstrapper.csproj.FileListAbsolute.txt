@@ -1,0 +1,12 @@
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.csproj.AssemblyReference.cache
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.AssemblyInfoInputs.cache
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.AssemblyInfo.cs
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.sourcelink.json
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\bin\Debug\netcoreapp3.1\meta.xml
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\bin\Debug\netcoreapp3.1\HighLifeBootstrapper.deps.json
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\bin\Debug\netcoreapp3.1\HighLifeBootstrapper.dll
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\bin\Debug\netcoreapp3.1\HighLifeBootstrapper.pdb
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.dll
+C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\obj\Debug\netcoreapp3.1\HighLifeBootstrapper.pdb

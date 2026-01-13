@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = HighLifeBootstrapper
+build_property.ProjectDir = C:\Users\alexf\Desktop\HighLifev2\server\dotnet\resources\HighLifeBootstrapper\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
