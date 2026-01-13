@@ -1,4 +1,4 @@
-<h1 align="center">🚀 HighLife V2 Bootstrapper</h1>
+<h1 align="center">🚀V2 Bootstrapper</h1>
 
 <p align="center">
   <i>Fixed Version 1.2.0.0 — RAGE:MP C# Bootstrapper for ColShape crash protection</i>
